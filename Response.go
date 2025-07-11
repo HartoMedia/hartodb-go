@@ -3,7 +3,7 @@
 // for "better and easier" error handling and debugging
 // Author: harto.dev
 
-package library
+package hartoDb_go
 
 import (
 	"encoding/json"

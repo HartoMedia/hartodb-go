@@ -6,7 +6,7 @@
 
 // ChatGPT url: https://chatgpt.com/c/67ec35f1-fddc-8000-88ae-864091d5ede7
 // didnt do the last step about the responses
-package library
+package hartoDb_go
 
 type HTDB struct {
 	mainPath      string

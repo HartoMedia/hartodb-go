@@ -3,7 +3,7 @@
 // Implements a fluent interface for querying records
 // Author: harto.dev
 
-package library
+package hartoDb_go
 
 import (
 	"fmt"

@@ -3,7 +3,7 @@
 // May change in near future that Tables get its own File
 // Author: harto.dev
 
-package library
+package hartoDb_go
 
 import (
 	"fmt"

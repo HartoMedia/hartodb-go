@@ -3,7 +3,7 @@
 // Provides a clean API for managing tables, transactions, and records
 // Author: harto.dev
 
-package library
+package hartoDb_go
 
 import (
 	"fmt"

@@ -3,7 +3,7 @@
 // Implements periodic cleanup of outdated and deleted records
 // Author: harto.dev
 
-package library
+package hartoDb_go
 
 import (
 	"encoding/json"

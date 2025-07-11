@@ -3,7 +3,7 @@
 // Implements transaction management for the append-only database
 // Author: harto.dev
 
-package library
+package hartoDb_go
 
 import (
 	"fmt"

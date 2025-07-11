@@ -2,7 +2,7 @@
 // Description: Table struct for the HTDB library
 // Jej, Tables got its own file
 // Author: harto.dev
-package library
+package hartoDb_go
 
 import (
 	"encoding/json"

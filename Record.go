@@ -3,7 +3,7 @@
 // Implements record metadata, append-only handling, and transaction support
 // Author: harto.dev
 
-package library
+package hartoDb_go
 
 import (
 	"encoding/binary"
